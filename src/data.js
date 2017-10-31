@@ -7,7 +7,7 @@ const data= {
 					{'name':'Niklas', 'points':5},
 					{'name':'Squeeg', 'points':1},
 					{'name':'Coil', 'points':3},
-					{'name':'Blazer', 'points':7}
+					{'name':'brot', 'points':7}
 				]
 		},
 		{
@@ -15,7 +15,7 @@ const data= {
 			"name": "ok people",
 			"standings":[
 					{'name':'Boop', 'points':5},
-					{'name':'tard', 'points':1},
+					{'name':'track', 'points':1},
 					{'name':'giol', 'points':3},
 					{'name':'nyquist', 'points':7}
 				]
